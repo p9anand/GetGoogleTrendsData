@@ -5,8 +5,8 @@ from random import randint
 import pymysql.cursors
 import logging
 
-google_username = "p9anand@gmail.com"
-google_password = "p9anand.iitr"
+google_username = "************"
+google_password = "********"
 
 logging.basicConfig(filename='Trends.log', level=logging.DEBUG)
 log = logging.getLogger(__name__)
